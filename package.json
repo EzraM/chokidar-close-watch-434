@@ -1,0 +1,14 @@
+{
+  "name": "chokidar-bug",
+  "version": "1.0.0",
+  "description": "minimal test case for chokidar watch hang",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ezra Match",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^1.6.1"
+  }
+}
